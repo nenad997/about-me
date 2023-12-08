@@ -1,23 +1,21 @@
 # about-me
 Hi, I am Nenad, it is nice to meet you :)
-# O meni
+# About me
 
-Dobrodošli na moju stranicu na GitHub-u! Ja sam [Vaše ime], [kratka biografija ili nešto o sebi].
+Welcome to my Github page. My name is Nenad Matijevic.
 
-## Kontakt
+## Contact me
 
-- 📧 Email: [vaš email]
-- 💼 LinkedIn: [vaš LinkedIn profil]
-- 🐦 Twitter: [vaš Twitter profil]
+- 📧 Email: nenad.matijevic97@hotmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/nm97/
 
-## Veštine
+## My Skills
 
-- Programiranje: [npr. Python, JavaScript]
-- Web razvoj: [npr. HTML, CSS, React]
-- Ostalo: [npr. Git, Docker]
+- Web development: [npr. HTML, CSS, JavaScript, React]
+- Other: Git
 
-## Hobi
+## My hobbies
 
-U slobodno vreme volim [npr. čitati knjige, trčati, svirati gitaru].
+In my spare time I like to hang out with my friends, play basketball, enjoy at watching good movies
 
 Feel free to reach out and connect!
