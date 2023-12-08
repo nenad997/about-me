@@ -1,5 +1,3 @@
-# About-me
-Hi, I am Nenad, it is nice to meet you :)
 # About me
 
 Welcome to my Github page. My name is Nenad Matijevic.
