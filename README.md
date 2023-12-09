@@ -9,7 +9,7 @@ Welcome to my Github page. My name is Nenad Matijevic.
 
 ## My Skills
 
-- Web development: [npr. HTML, CSS, JavaScript, React]
+- Web development: HTML, CSS, JavaScript, React
 - Other: Git
 
 ## My hobbies
