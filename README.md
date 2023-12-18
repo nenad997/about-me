@@ -17,6 +17,6 @@ Programming languages and tools I work with:
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Typescript.svg" alt="TypeScript Logo" width="35" height="40">
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/30/React_Logo_SVG.svg" alt="React.js Logo" width="35" height="40">
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="NodeJS Logo" width="35" height="40">
-  <img src="https://www.karabayyazilim.com/uploads/blogs/express-js-nedir-2020-01-20-200246/express-js-nedir-2020-01-20-200246-0.jpg" alt="Express.js Logo" width="35" height="40">
+  <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*d2zLEjERsrs1Rzk_95QU9A.png" alt="Express.js Logo" width="35" height="40">
   <img src="https://upload.wikimedia.org/wikipedia/en/5/5a/MongoDB_Fores-Green.svg" alt="MongoDB Logo" width="35" height="40">
 </p>
