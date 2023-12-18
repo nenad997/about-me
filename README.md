@@ -8,7 +8,7 @@ Besides programming, I play basketball :basketball:, watch TV movies :clapper: a
 
 🏆 Currently I am :point_down:
 - 💻 Working as a freelance web developer
-- 💪 Brushing up my web development skills and build new projects 
+- 💪 Brushing up my web development skills and building new projects 
 
 Programming languages and tools I work with include :point_down:
 
