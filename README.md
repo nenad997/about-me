@@ -8,7 +8,7 @@ Besides programming, I play basketball :basketball:, watch TV movies :clapper: a
 - :trophy: Working as a freelance web developer
 - :muscle: Brushing up my web development skills and build new projects 
 
-Programming languages and tools I work with:
+Programming languages and tools I work with include:
 
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML5 Logo" width="35" height="40">
