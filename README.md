@@ -4,9 +4,9 @@
 
 Besides programming, I play basketball :basketball:, watch TV movies :clapper: and hang out with my friends.
 
-:computer: Currently I am:
-- :trophy: Working as a freelance web developer
-- :muscle: Brushing up my web development skills and build new projects 
+🏆 Currently I am:
+- 💻 Working as a freelance web developer
+- 💪 Brushing up my web development skills and build new projects 
 
 Programming languages and tools I work with include:
 
