@@ -1,5 +1,7 @@
 # Hi, my name is Nenad :smiley: and I come from Serbia 🇷🇸.
 
+### Briefly about me :point_down:
+
 :fire: I'm a fullstack web developer with focus on JavaScript technologies. :fire:
 
 Besides programming, I play basketball :basketball:, watch TV movies :clapper: and hang out with my friends.
