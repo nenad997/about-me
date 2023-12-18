@@ -1,4 +1,4 @@
-# Hi, my name is Nenad :smiley: and I come from Serbia :serbia:.
+# Hi, my name is Nenad :smiley: and I come from Serbia <img src="https://upload.wikimedia.org/wikipedia/commons/f/ff/Flag_of_Serbia.svg" alt="Serbian flag logo" width="50" height="50">.
 
 :fire: I'm a fullstack web developer with focus on JavaScript technologies. :fire:
 
