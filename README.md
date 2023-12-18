@@ -10,4 +10,6 @@ Besides programming, I play basketball :basketball:, watch TV movies :clapper: a
 
 Programming languages and tools I work with:
 
-![HTML5](https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg)
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML5 Logo" width="50" height="50">
+</p>
