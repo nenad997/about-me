@@ -8,7 +8,7 @@ Besides programming, I play basketball :basketball:, watch TV movies :clapper: a
 
 🏆 Currently I am :point_down:
 - 💪 Brushing up my web development skills and building new projects
-- Learning React Native <img src="https://miro.medium.com/v2/resize:fit:1024/0*dhDZY5VlvfPB5WtZ.png" alt="React Native Logo" width="35" height="40"> and Next.js <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" alt="Next.js Logo" width="35" height="40">
+- Learning React Native and Next.js
 
 Programming languages and tools I work with include :point_down:
 
@@ -21,4 +21,6 @@ Programming languages and tools I work with include :point_down:
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="NodeJS Logo" width="35" height="40">
   <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*d2zLEjERsrs1Rzk_95QU9A.png" alt="Express.js Logo" width="35" height="40">
   <img src="https://upload.wikimedia.org/wikipedia/en/5/5a/MongoDB_Fores-Green.svg" alt="MongoDB Logo" width="35" height="40">
+  <img src="https://miro.medium.com/v2/resize:fit:1024/0*dhDZY5VlvfPB5WtZ.png" alt="React Native Logo" width="35" height="40">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" alt="Next.js Logo" width="35" height="40">
 </p>
