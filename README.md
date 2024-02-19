@@ -4,7 +4,7 @@
 
 :fire: I'm a fullstack web developer with focus on JavaScript technologies. :fire:
 
-Besides programming, I play basketball :basketball:, watch TV movies :clapper: and hang out with my friends.
+Besides programming, I play basketball :basketball:, watch TV movies :clapper: and hang out with friends of mine.
 
 🏆 Currently I am :point_down:
 - 💪 Brushing up my web development skills and building new projects
