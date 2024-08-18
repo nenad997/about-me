@@ -8,7 +8,7 @@ Besides programming, I play basketball :basketball:, watch TV movies :clapper: a
 
 🏆 Currently I am :point_down:
 - 💪 Brushing up my web development skills and building new projects
-- :books: Learning React Native and Next.js
+- :books: Learning React Native and NestJS
 
 Programming languages and tools I work with include :point_down:
 
